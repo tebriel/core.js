@@ -40,7 +40,7 @@
     "@types/jest": "^24.0.17",
     "@types/lolex": "^5.1.0",
     "@types/node": "^12.7.1",
-    "@types/node-fetch": "^2.5.0",
+    "@types/node-fetch": "^2.5.4",
     "fetch-mock": "^8.0.0",
     "http-proxy-agent": "^2.1.0",
     "jest": "^24.8.0",
